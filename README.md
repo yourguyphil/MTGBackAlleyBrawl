@@ -8,6 +8,3 @@ Inspired by "Walking the planes ep 20" https://www.youtube.com/watch?v=qHQ6eVaqQ
 
 ## Here's a Demo! 
 
-![In the App](/Demo Images/Demo Round 1.PNG)
-
-![Winner](/Demo Images/Winner Demo.PNG)
