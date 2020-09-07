@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTGBackAlleyBrawl</string>
+    <string name="round">Round</string>
+    <string name="match">Match</string>
+</resources>

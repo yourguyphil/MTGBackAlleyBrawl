@@ -1,0 +1,58 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:text="Match 0 (Out of 15)/nMother of Runes vs Griselbrand"
+            android:id="@+id/message"
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dp"
+            android:gravity="center"
+            app:backgroundTintMode="src_in"
+            android:textStyle="bold" />
+        <ImageButton
+            android:src="@drawable/mom"
+            android:layout_width="match_parent"
+            android:layout_height="275.4dp"
+            android:scaleType="fitCenter"
+            android:id="@+id/imageButton1"/>
+        <TextView
+            android:text="VS."
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/textView1" />
+        <ImageButton
+            android:src="@drawable/daddy"
+            android:layout_width="match_parent"
+            android:layout_height="275.4dp"
+            android:scaleType="fitCenter"
+            android:id="@+id/imageButton2" />
+        <TextView
+            android:text="Choose the winner!"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/navigation" />
+</RelativeLayout>
