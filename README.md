@@ -5,3 +5,9 @@
 Who will be victorious!?!?!
 
 Inspired by "Walking the planes ep 20" https://www.youtube.com/watch?v=qHQ6eVaqQc4&list=PL3rP64NRtmbg0g-A_fwwpfaTpkmmwcwYl&index=24&ab_channel=Magic%3ATheGathering, this is a mobile app built with Xamrin and using the Scryfall API (https://scryfall.com/docs/api).  
+
+## Here's a Demo! 
+
+![In the App](/Demo Images/Demo Round 1.PNG)
+
+![Winner](/Demo Images/Winner Demo.PNG)
