@@ -8,3 +8,6 @@ Inspired by "Walking the planes ep 20" https://www.youtube.com/watch?v=qHQ6eVaqQ
 
 ## Here's a Demo! 
 
+![](https://github.com/yourguyphil/MTGBackAlleyBrawl/blob/master/Demo%20Images/Demo%20Round%201.PNG)
+
+![](https://github.com/yourguyphil/MTGBackAlleyBrawl/blob/master/Demo%20Images/Winner%20Demo.PNG)
